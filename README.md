@@ -23,7 +23,7 @@ Here is a screenshot from  the output video:
 ## TechStack
 * python3.8
 * ultralytics
-* pytroch
+* pytorch
 * pandas
 * numpy 
 * opencv
